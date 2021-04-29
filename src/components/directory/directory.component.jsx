@@ -16,7 +16,7 @@ class Directory extends React.Component{
         },
 
         {
-          title: 'stainless steel plugs',
+          title: 'surgical steel plugs',
           imageUrl: 'https://cdn.shopify.com/s/files/1/0337/8189/products/SS-008-SS_087e3002-8df0-4478-ae1b-a2c19a912d58_360x.jpg?v=1612558616',
           id: 2,
           linkUrl: ''  
